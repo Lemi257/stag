@@ -2,12 +2,9 @@ package pro1;
 
 import com.google.gson.Gson;
 import pro1.apiDataModel.ActionsList;
-import pro1.apiDataModel.Teacher;
-import pro1.apiDataModel.TeachersList;
 
 import java.util.Comparator;
 import java.util.HashMap;
-import java.util.Map;
 
 public class Main6 {
 
