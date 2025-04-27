@@ -1,11 +1,9 @@
 package pro1;
 
 import com.google.gson.Gson;
-import pro1.apiDataModel.Teacher;
 import pro1.apiDataModel.TeachersList;
 
 import java.util.Comparator;
-import java.util.List;
 
 public class Main4 {
 
@@ -28,7 +26,7 @@ public class Main4 {
                 .forEach(t -> System.out.println(t.email)); //místo for řešení
 
 
-        /*for (Teacher t : print)
-            System.out.println(t.email); */
+        // for (Teacher t : print)
+            //System.out.println(t.email);
     }
 }
